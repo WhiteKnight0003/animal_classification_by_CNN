@@ -54,7 +54,7 @@ Mở URL hiện ra để xem **Train/Loss**, **Val/Accuracy** và **Confusion Ma
 **TensorBoard — Train/Loss & Val/Accuracy:**  
 ![TensorBoard](assets/tensorboard_trainloss_valacc.png)
 
-**Kết quả trên 1 vài ảnh**
+# Kết quả trên 1 vài ảnh
 
 ![TensorBoard](assets/tensorboard_trainloss_valacc.png)
 ![TensorBoard](assets/tensorboard_trainloss_valacc.png)
